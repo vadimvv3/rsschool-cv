@@ -18,6 +18,12 @@ I want to become a front-end developer!
 * *JavaScript*
 * *GitHub*
 
+### **Code example:**
+'''
+function myFunction(a, b) {
+   return a+b
+}
+'''
 ### **Aducation:**
 * BNTU
 
