@@ -19,7 +19,7 @@ I want to become a front-end developer!
 * *GitHub*
 
 ### **Code example:**
-'function myFunction(a, b) {return a+b}
+'function myFunction(a, b) {return a+b}'
    
 ### **Aducation:**
 * BNTU
